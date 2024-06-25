@@ -1,16 +1,17 @@
-## Hi there 👋
+# Boas Vindas ao meu perfil 🐩
 
-<!--
-**atekamarcos/atekamarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e marcos almeida
 
-Here are some ideas to get you started:
+-estou esdutando na [alura](https://www.alura.com.br/)
+-estou me desenvolvento na linguagem java script
+-ultilizo este espaço para organização e compartilhamento dos meus projetos desenvolvitos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+voce pode entrar em contato comigo♈
+
+00001074030710sp@al.educacao.sp.gov.br
+
+@atekamarcos
+
+
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJ5OTF3aG85OGI4am1pamFucmJxaWswZG9kcGZweDV3a2wxZGRrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YUG6QfNKphYLIMfLmx/giphy.webp)
