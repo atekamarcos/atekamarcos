@@ -1,6 +1,6 @@
 # Boas Vindas ao meu perfil 🐩
 
-meu nome e marcos almeida
+meu nome e marcos henrique de almeida
 
 -estou esdutando na [alura](https://www.alura.com.br/)
 -estou me desenvolvento na linguagem java script
